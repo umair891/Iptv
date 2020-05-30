@@ -1,4 +1,14 @@
 #EXTM3U 
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",LOVE NATURE
+http://185.150.130.123:8000/play/str88?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Love Nature 4K(UHD)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",love nature (Public-Family) (CA) (English)
+http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/204/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",LOVE NATURE FHD
+http://globalworldsgreatest.uk:8080/clem13/TSISFsdeIv/115598?checkedby:iptvcat.com
+
 #EXTINF: -1 group-title="Undefined", 24 News
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5616.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 group-title="Undefined", 313 TV
