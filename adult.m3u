@@ -1,6 +1,72 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET FHD [2]
+http://brasiltv.pro:8080/123456/123456/22978?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://brasiltv.pro:8080/123456/123456/5160?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD [2]
+http://brasiltv.pro:8080/123456/123456/22979?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET SD
+http://brasiltv.pro:8080/123456/123456/5207?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Animal Planet
+http://185.150.27.125:9981/stream/channelid/1160139305?ticket=3972C12481EF0F7700DE9D7DE0E15DB58BFD8248&profile=pass&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Animal Planet FHD
+http://pro-stream.club:8080/karla2/12345/26532?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27293&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FI" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3133.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Animal Planet HD 1080P
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6292.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://bestv.nl:8080/renato/renato1234/13759?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Animal Planet
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3930.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Undefined",Animal Planet FHD [Multi-Sub]
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/40493.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6269.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD 1080
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/6867.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Undefined",Animal Planet
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/18879.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://185.150.130.123:8000/play/str11?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://live.falconiptv.com:80/jasmin25/jasmin25/123289?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://globe2.midomed.com:80/live/walidca/jXjTFUVm29/3340.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://globe2.midomed.com:80/walidca/jXjTFUVm29/3340?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Animal Planet
+http://182.73.122.74:10004/bysid/1112?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Animal Planet
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Animal Planet 5
+http://178.217.72.66:80/225.201.2.91/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://streamidvo.multitvsolution.in/live/APHDHindi-a/p3.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Latino: Animal Planet
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/5203.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/7928?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ANIMAL PLANET FHD
+http://globalworldsgreatest.uk:8080/clem13/TSISFsdeIv/104511?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://globalworldsgreatest.uk:8080/clem13/TSISFsdeIv/73770?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/7929?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ANIMAL PLANET SD
+http://globalworldsgreatest.uk:8080/clem13/TSISFsdeIv/73771?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://live.falconiptv.com:80/jasmin25/jasmin25/117977?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://dragoniptv.club:8080/ANurAK/aYDCncdCCk/5406?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3593.m3u8?checkedby:iptvcat.com
+EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
 https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
 #EXTINF:-1 tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX", AdultIPTV.net Live Cams
